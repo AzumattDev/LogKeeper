@@ -1,6 +1,6 @@
 {
   "name": "LogKeeper",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/AzumattDev/LogKeeper",
   "description": "LogKeeper auto-backups and timestamps log files, keeping only the latest (default 5) for cleaner history. Ideal for debugging or preserving logs, especially when they are overwritten after a game restart.",
   "dependencies": [

@@ -15,7 +15,7 @@ namespace LogKeeper
     public class LogKeeperPlugin : BaseUnityPlugin
     {
         internal const string ModName = "LogKeeper";
-        internal const string ModVersion = "1.0.0";
+        internal const string ModVersion = "1.0.1";
         internal const string Author = "Azumatt";
         private const string ModGuid = $"{Author}.{ModName}";
         private const string ConfigFileName = $"{ModGuid}.cfg";
